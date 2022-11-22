@@ -2488,6 +2488,11 @@ has-values@^1.0.0:
     is-number "^3.0.0"
     kind-of "^4.0.0"
 
+haversine-geolocation@^1.6.0:
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/haversine-geolocation/-/haversine-geolocation-1.6.0.tgz#0189742a8588823f9811a523d7ee5bd32c29b138"
+  integrity sha512-5s+FFOCeQJLalx/9Txyq6p8q12l1U6hKcrpyPYNLbq1mHcd9FW6sVQ32iOgKFRNfDhqjqSWZ5uP+kSF3uHc8eQ==
+
 haversine@^1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/haversine/-/haversine-1.1.1.tgz#05b65e0445aca8f217b0db56877e4d637d3fc8ae"
